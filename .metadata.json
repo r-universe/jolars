@@ -1,14 +1,6 @@
 [
   {
-    "package": "SLOPE",
-    "oncran": true
-  },
-  {
-    "package": "qualpalr",
-    "oncran": true
-  },
-  {
-    "package": "tactile",
+    "package": "eulerr",
     "oncran": true
   },
   {
@@ -16,11 +8,19 @@
     "oncran": true
   },
   {
-    "package": "eulerr",
+    "package": "qualpalr",
     "oncran": true
   },
   {
     "package": "rmdplugr",
+    "oncran": true
+  },
+  {
+    "package": "SLOPE",
+    "oncran": true
+  },
+  {
+    "package": "tactile",
     "oncran": true
   }
 ]

@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SLOPE"]
-	path = SLOPE
-	url = https://github.com/jolars/slope
-	shallow = true
-	registered = true
-[submodule "qualpalr"]
-	path = qualpalr
-	url = https://github.com/jolars/qualpalr
-	shallow = true
-	registered = true
-[submodule "tactile"]
-	path = tactile
-	url = https://github.com/jolars/tactile
+[submodule "eulerr"]
+	path = eulerr
+	url = https://github.com/jolars/eulerr
 	shallow = true
 	registered = true
 [submodule "polylabelr"]
@@ -23,13 +13,23 @@
 	url = https://github.com/jolars/polylabelr
 	shallow = true
 	registered = true
-[submodule "eulerr"]
-	path = eulerr
-	url = https://github.com/jolars/eulerr
+[submodule "qualpalr"]
+	path = qualpalr
+	url = https://github.com/jolars/qualpalr
 	shallow = true
 	registered = true
 [submodule "rmdplugr"]
 	path = rmdplugr
 	url = https://github.com/jolars/rmdplugr
+	shallow = true
+	registered = true
+[submodule "SLOPE"]
+	path = SLOPE
+	url = https://github.com/jolars/slope
+	shallow = true
+	registered = true
+[submodule "tactile"]
+	path = tactile
+	url = https://github.com/jolars/tactile
 	shallow = true
 	registered = true
