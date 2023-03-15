@@ -1,10 +1,6 @@
 [
   {
-    "package": "eulerr",
-    "oncran": true
-  },
-  {
-    "package": "polylabelr",
+    "package": "SLOPE",
     "oncran": true
   },
   {
@@ -12,15 +8,19 @@
     "oncran": true
   },
   {
-    "package": "rmdplugr",
-    "oncran": true
-  },
-  {
-    "package": "SLOPE",
-    "oncran": true
-  },
-  {
     "package": "tactile",
+    "oncran": true
+  },
+  {
+    "package": "polylabelr",
+    "oncran": true
+  },
+  {
+    "package": "eulerr",
+    "oncran": true
+  },
+  {
+    "package": "rmdplugr",
     "oncran": true
   }
 ]
