@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SLOPE"]
+	path = SLOPE
+	url = https://github.com/jolars/slope
 [submodule "eulerr"]
 	path = eulerr
 	url = https://github.com/jolars/eulerr
@@ -14,9 +17,6 @@
 [submodule "rmdplugr"]
 	path = rmdplugr
 	url = https://github.com/jolars/rmdplugr
-[submodule "SLOPE"]
-	path = SLOPE
-	url = https://github.com/jolars/slope
 [submodule "tactile"]
 	path = tactile
 	url = https://github.com/jolars/tactile
