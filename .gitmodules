@@ -8,6 +8,9 @@
 [submodule "SLOPE"]
 	path = SLOPE
 	url = https://github.com/jolars/slope
+[submodule "arity"]
+	path = arity
+	url = https://github.com/jolars/arity-r
 [submodule "eulerr"]
 	path = eulerr
 	url = https://github.com/jolars/eulerr
